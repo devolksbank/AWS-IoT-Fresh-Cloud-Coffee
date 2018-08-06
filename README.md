@@ -9,6 +9,8 @@ What does it contain?
 
 ![showcase](docs/showcase.gif)
 
+We have written a story about this project and provided a tutorial at [hackster.io](https://www.hackster.io/technology-center-de-volksbank-nl/aws-iot-buttons-fresh-cloud-coffee-95423f).
+
 
 ## AWS Infra
 
@@ -18,7 +20,7 @@ What does it contain?
 
 > Modern electronics are great. They do have a disappointing downside however: they tend to break. 
 > A lot. Here at de Volksbank, we are currently asking users of coffee machines, printers, etc. to report broken systems in a system or by calling support. 
-> While this generally works fine, the worst moment to ask someone to make a phonecall is 9 in the morning when he didn't have his coffee yet.
+> While this generally works fine, the worst moment to ask someone to make a phone call is 9 in the morning when they didn't have their coffee yet.
 > To make the process even simpler and quicker, we wanted to automate the process even further. 
 > Now coffee machines and printers can include a simple dedicated button which takes care of everything. 
 > Pushing it activates a function in the cloud which notifies the right people that a machine is defect, 
