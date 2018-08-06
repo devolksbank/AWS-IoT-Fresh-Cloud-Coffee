@@ -1,0 +1,3 @@
+dynamodb.device.status.table=device-status-table
+dynamodb.device.type.table=device-type-table
+dynamodb.region=eu-west-2

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">State Cloud</string>
+    <string name="device_id">Device ID: %1$d</string>
+    <string name="last_updated">Last update: %1$s</string>
+    <string name="fix_confirmation_header">Fix confirmation</string>
+    <string name="fix_confirmation">Are you sure %1$s %2$d has been fixed?</string>
+    <string name="fix_confirmation_positive">Yes</string>
+    <string name="fix_confirmation_negative">No</string>
+    <string name="submit_fix_to_database">Submitting fix to database...</string>
+    <string name="device_status_defect">Defect</string>
+    <string name="device_status_working">Working</string>
+    <string name="device_status_unknown">Unknown</string>
+    <string name="unknown_device_status_alert">The provided string: \"%1$s\" was not recognized as a valid device status</string>
+    <string name="device_type_coffee_machine">Coffee Machine</string>
+    <string name="device_type_printer">Printer</string>
+    <string name="device_type_unknown">Unknown device type</string>
+    <string name="unknown_device_type_alert">The provided string: \"%1$s\" was not recognized as a valid device type</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">Device Updates</string>
+    <string name="update_notification" translatable="true">Device Update</string>
+    <string name="notification_channel_name" translatable="false">Device Updates</string>
+    <string name="action_about">About</string>
+
+    <string name="license_url" translatable="false">https://gitlab.com/techcenter/PoC-AWS-IoT-buttons-demo/blob/ecc4d3f6fc50955d09accb787c9a6934f5f881a9/LICENSE</string>
+    <string name="blog_url" translatable="false">"https://www.devolksbank.nl/werken-bij.html"</string>
+    <string name="email" translatable="false">tc@devolksbank.nl</string>
+    <string name="license" translatable="false">MIT License</string>
+    <string name="about_description" translatable="true">This app has been made by the Technology Center of de Volksbank. It has been created to explore the possibilities of the Amazon IOT-buttons.</string>
+    <string name="credits" translatable="true">The printer image has been made by SimpleIcon from www.flaticon.com. The coffee machine image has been made by Laurent Canivet.</string>
+
+</resources>
