@@ -32,6 +32,7 @@ We have written a story about this project and provided a tutorial at [hackster.
 * **Wouter Poncin** - *Initial work* - [wpbs](https://github.com/wpbs)
 * **Daan Knoope** - *Initial work* - [daanknoope](https://github.com/daanknoope)
 * **Casper Schobers** - *Initial work* - [casperschobers](https://github.com/casperschobers)
+* **David Keyner** - *Artwork*  
 
 See also the list of [contributors](https://github.com/devolksbank/AWS-IoT-Fresh-Cloud-Coffee/contributors) who participated in this project.
 
